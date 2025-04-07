@@ -1,6 +1,6 @@
 ## Hola a todos 👋
 
-Este es un repositorio dedicado a la integración de diversos scripts para solucionar los diferentes retos producidos dentro de la empresa Mensajeria y Estrategias, por parte del área de DATA. Ademmás tiene como objetivo la inovación en tecnologías modernas.
+Este es un repositorio dedicado a la integración de diversos scripts para solucionar los diferentes retos producidos dentro de la empresa Mensajeria y Estrategias, por parte del área de DATA. Además tiene como objetivo la innovación en tecnologías modernas y su utilización.
 
 Dicho desarrollo ha sido principalmente trabajado en python.
 <!--
